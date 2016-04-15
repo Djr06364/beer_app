@@ -1,3 +1,21 @@
+body{
+	color: rgb(160, 142, 96);
+	
+
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+.navbar{
+	opacity: 0.6;
+	font:'Bangers';
+	color:rgb(160, 142, 96);
+}
+
+
 h1{
 	font:'Bangers';
 	font-size: 100px
